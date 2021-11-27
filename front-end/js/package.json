@@ -1,0 +1,23 @@
+{
+  "name": "jojo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-sass": "^5.0.0",
+    "gulp-watch": "^5.0.1",
+    "sass": "^1.43.4"
+  },
+  "dependencies": {
+    "del": "^6.0.0",
+    "gulp-pipe": "^1.0.4",
+    "gulp-scss": "^1.4.0"
+  }
+}
